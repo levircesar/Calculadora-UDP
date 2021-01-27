@@ -1,9 +1,9 @@
 var dgram = require('dgram');
 var readline = require('readline');
 var client = dgram.createSocket("udp4");
+
 var argv = require('minimist')(process.argv.slice(2));
-var port = argv['c']; //para usar tem que passar o argumento
-//node cliente.js -s 400 -p 888
+var port = argv['p']; 
 var servidor =argv['s'];
 
 if(port == undefined){

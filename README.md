@@ -28,3 +28,10 @@ $ node cliente.js -s 5555 -p 8888
 ```
 -s : porta do servidor
 -p : porta do cliente
+
+##### Resultador
+Servidor
+<img src= "imagens/servidor.PNG">
+
+Cliente
+<img src= "cliente.PNG">
