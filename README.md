@@ -41,9 +41,9 @@ Cliente
 <img src= "imagens/cliente.PNG">
 
 ###### Usando a calculadora
-Para usar, digite a expressão na ordem:
+Para usar, digite a expressão na ordem e com espaçamento entre os argumentos:
 <br>
-{numero1} {operador} {numero2}]
+{numero1} {operador} {numero2}
 <br>
 Exemplo:
 
