@@ -37,3 +37,15 @@ Servidor
 Cliente
 <br>
 <img src= "imagens/cliente.PNG">
+
+Usando a calculadora
+Para usar, digite a expressão na ordem:
+{numero1} {operador} {numero2}
+Exemplo:
+
+```
+digite a expressao : 15 / 44
+```
+<br>
+<img src= "imagens/uso.PNG">
+
