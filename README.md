@@ -31,7 +31,9 @@ $ node cliente.js -s 5555 -p 8888
 
 ##### Resultador
 Servidor
+<br>
 <img src= "imagens/servidor.PNG">
 
 Cliente
-<img src= "cliente.PNG">
+<br>
+<img src= "imagens/cliente.PNG">
