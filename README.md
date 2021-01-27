@@ -7,7 +7,7 @@
 - [ ] Clean Code
 
 ### Para rodar é importante ter o Node.js na sua maquina
-Você pode baixar no link <a href="https://nodejs.org/en/download/"></a> ou usar um instalador de pacotes. Neste exemplo, utilizei o pacote os comandos npm.
+Você pode baixar neste <a href="https://nodejs.org/en/download/">link</a> ou usar um instalador de pacotes. Neste exemplo, utilizei o pacote os comandos npm.
 ```
 $ npm install node
 
