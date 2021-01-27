@@ -19,15 +19,16 @@ $ npm install minimist
 ```
 #### Execute primeiro o servidor
 ```
-$ node server.js -s 5555
+$ node server.js -s 5544
 ```
 -s : porta do servidor
 
 #### Depois execute o cliente
 ```
-$ node cliente.js -s 5555 -p 8888
+$ node cliente.js -s 5544 -p 3142
 ```
 -s : porta do servidor
+<br>
 -p : porta do cliente
 
 ##### Resultador
