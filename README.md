@@ -61,12 +61,5 @@ Somente são aceitos os operadores básicos [ + , - , * , / ]:
 <br>
 Os números podem ser variáveis do tipo int, fload, double.
 <br>
-Exemplos
-<ul>
-    <li>55</li>
-    <li>-100</li>
-    <li>0.5558</li>
-    <li>-28.244</li>
-</ul>
 <img src= "imagens/uso.PNG">
 
