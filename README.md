@@ -8,12 +8,9 @@
 
 ### Para rodar é importante ter o Node.js na sua maquina
 
-/*Para projetos com React*/
 $ npm install node
 
-/*tenha o puglin Dgram instalado*/
 $ npm install dgram
 
-/*tenha o puglin Realine instalado*/
 $ npm install Realine
 
