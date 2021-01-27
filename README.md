@@ -10,8 +10,12 @@
 Você pode baixar neste <a href="https://nodejs.org/en/download/">link</a> ou usar um gerenciador de pacotes. Neste exemplo, utilizei os comandos npm.
 ```
 $ npm install node
-
+```
+São necessárias algumas bibliotecas do node, listadas abaixo:
+```
 $ npm install dgram
+
+$ npm install nodemon
 
 $ npm install readline
 
