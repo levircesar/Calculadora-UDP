@@ -12,5 +12,19 @@ $ npm install node
 
 $ npm install dgram
 
-$ npm install Realine
+$ npm install readline
 
+$ npm install minimist
+
+#### Execute primeiro o servidor
+
+$ node server.js -s 5555
+
+-s : porta do servidor
+
+#### Depois execute o cliente
+
+$ node cliente.js -s 5555 -p 8888
+
+-s : porta do servidor
+-p : porta do cliente
